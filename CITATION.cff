@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it."
+title: "Compounding or Saturating? Measuring Returns in a Self-Improving LLM Loop"
+authors:
+  - name: "Pavan"
+type: software
+license: MIT
+date-released: 2026-11-05
